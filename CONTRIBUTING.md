@@ -4,4 +4,4 @@ How to contribute
 
 - Keep the word count low, and focus on what's important.
 
-- Wanna change something? Provisional idea of how this could work: raise PR, gather 5 or more +1's and no -1's, merge. 
+- Wanna change something? Raise PR, gather 5 or more +1's and no -1's, merge. 
