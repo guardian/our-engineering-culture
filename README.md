@@ -12,6 +12,9 @@ We believe in treating everyone we encounter with respect.
 
 >Whether meeting physically or electronically, whether friend or stranger, whether employee, customer or commenter, we respect the opinion of others and are gracious in our interactions.
 
+We are respectful of different skill sets and levels of ability.
+>We come from different backgrounds, work in different roles, are different ages, and therefore have different levels of experience. All in all, we pull each other up, not bring each other down.
+
 We believe we are empowered to meet the needs of people we encounter across the Guardian.
 
 >This behaviour is consistently encouraged across all levels of engineering.
