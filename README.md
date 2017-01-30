@@ -19,6 +19,10 @@ We believe we are empowered to meet the needs of people we encounter across the 
 
 >This behaviour is consistently encouraged across all levels of engineering.
 
+We believe that embracing technical innovation and excellence can help us make a difference
+
+> We can better achieve the Guardian's objectives by having a deep understanding of the technology we use and adopting emerging tools and solutions before others. We maintain our technical advantage through continuous innovation.
+
 We care.
 
 >We are not driven to simply deliver the implementation of a specification, but delight in working collaboratively to achieve an objective. In return, we are enthused to do whatever we can to deliver value to the Guardian.
