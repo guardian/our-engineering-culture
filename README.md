@@ -21,7 +21,7 @@ We believe we are empowered to meet the needs of people we encounter across the 
 
 We believe that embracing technical innovation and excellence can help us make a difference
 
-> By trying to deeply understand technologies and stay informed of technical innovation we are able to engineer or adopt new tools and solutions that allow us to achieve the Guardian's objectives
+> We can better achieve the Guardian's objectives by having a deep understanding of the technology we use and adopting emerging tools and solutions before others. We maintain our technical advantage through continuous innovation.
 
 We care.
 
