@@ -66,7 +66,7 @@ _Behaviours_:
 We believe that it’s our responsibility to upskill one another, sharing our knowledge, learnings and mistakes. 
 
 _Behaviours_:
- - Individuals are entitled to pairing time for their development. 
+ - Individuals are encouraged to pair for their development. 
  - We make time for individual-learning & career development with personal development being our priority.
  - We write code for the most junior, not the most senior.
  - We actively share at all levels of users and stakeholders, whether it's our knowledge, work, planning or approach.
