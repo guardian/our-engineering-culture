@@ -2,7 +2,7 @@
 
 We believe in being pragmatic and moving fast, spending our energy on the right things, shipping code and then rapidly iterating on it. 
 
-_Bbehaviours_:
+_Behaviours_:
 - We simplify our work, focusing on getting it to the user as early as possible.
 - We practice [continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery)
 - We are trying to [make the change easy, before the easy change](https://twitter.com/KentBeck/status/250733358307500032).   
