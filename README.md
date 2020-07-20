@@ -31,7 +31,7 @@ _Behaviours_:
  - We value the experience of people in the team and the different constraints within their lives. 
  - We celebrate success and positive behaviour, recognizing everyone’s contribution while treating every moment including tasks and failures as a learning opportunity.
 
-**We are data driven** 
+**We are data informed** 
 
 We believe that to be responsible in our impact we must be led by data.
 
