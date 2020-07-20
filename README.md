@@ -72,7 +72,7 @@ _Behaviours_:
 
 **We care**
  
-We choose to work here because we believe in [its values](https://workforus.theguardian.com/our-values) and what the Guardian stands for. We are not driven to simply deliver the implementation of a specification, but delight in working collaboratively to achieve an objective. In return, we are enthused to do whatever we can to deliver value to the Guardian.
+We choose to work here because we believe in [our values](https://workforus.theguardian.com/our-values) and what the Guardian stands for. We are not driven to simply deliver the implementation of a specification, but delight in working collaboratively to achieve an objective. In return, we are enthused to do whatever we can to deliver value to the Guardian.
 
 Behaviours: 
  - We seek to be a pioneer in the way things are done in the business and and aim to be seen as a model by other teams and departments
