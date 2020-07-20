@@ -55,7 +55,7 @@ _Behaviours_:
 - We think we can better achieve the Guardian's objectives by having a deep understanding of the technology we use and adopting some emerging tools and solutions before others:
     - We were one of the [first companies in UK to adopt `scala`](https://www.theguardian.com/info/developer-blog/2013/apr/26/how-the-guardian-built-scalable-foundation)
     - We have been one of the first company [to use continuous delivery](https://www.theguardian.com/info/developer-blog/2015/jan/05/delivering-continuous-delivery-continuously)
-    - We have been one of the [first legacy company to move entirely to the cloud (AWS)](http://perspectives.mvdirona.com/2016/03/a-decade-of-innovation/)
+    - We were one of the [first legacy companies to move entirely to the cloud (AWS)](http://perspectives.mvdirona.com/2016/03/a-decade-of-innovation/)
     - We have been one of the pioneer of [the concept of microservices](https://martinfowler.com/articles/microservices.html#footnote-etymology)
  - We maintain our technical advantage through continuous innovation
  - We aim to be at the forefront of tech, staying curious, looking to innovate and continuously improve.
