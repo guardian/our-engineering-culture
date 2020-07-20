@@ -17,6 +17,7 @@ _Behaviours_:
  - Every one of us has multiple interactions with a variety of people across the department and company every day. Each one of those is an opportunity to express and refine our culture. This written statement of our culture is shared, and anyone can [contribute](CONTRIBUTING.md).
  - We respect the opinion of others and are gracious in our interactions, whether meeting physically or digitally, whether friend or stranger, whether employee, customer or commenter.
  - We come from different backgrounds, work in different roles, are different ages, and therefore have different levels of experience. All in all, we pull each other up, not bring each other down.
+ - We value and respect all differences in all people (seen and unseen). We aspire to inclusive working experiences and an environment that reflects the audience we serve, where our people have equal access to career development opportunities, their voices are heard and can contribute to our future. We aim to hire, retain and advance people from underrepresented groups.
 
 
 **Working as a team**
