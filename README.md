@@ -53,7 +53,7 @@ We believe that embracing technical innovation and excellence can help us make a
 
 _Behaviours_:
 - We think we can better achieve the Guardian's objectives by having a deep understanding of the technology we use and adopting some emerging tools and solutions before others:
-    - We have been one of the [first company in UK to adopt `scala`](https://www.theguardian.com/info/developer-blog/2013/apr/26/how-the-guardian-built-scalable-foundation)
+    - We were one of the [first companies in UK to adopt `scala`](https://www.theguardian.com/info/developer-blog/2013/apr/26/how-the-guardian-built-scalable-foundation)
     - We have been one of the first company [to use continuous delivery](https://www.theguardian.com/info/developer-blog/2015/jan/05/delivering-continuous-delivery-continuously)
     - We have been one of the [first legacy company to move entirely to the cloud (AWS)](http://perspectives.mvdirona.com/2016/03/a-decade-of-innovation/)
     - We have been one of the pioneer of [the concept of microservices](https://martinfowler.com/articles/microservices.html#footnote-etymology)
