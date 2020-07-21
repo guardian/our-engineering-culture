@@ -66,7 +66,8 @@ _Behaviours_:
 We believe that it’s our responsibility to upskill one another, sharing our knowledge, learnings and mistakes. 
 
 _Behaviours_:
- - Individuals are encouraged to pair for their development. 
+ - We practice pairing to help share our knowledge, grow our skills, and facilitate collaborative decision making.
+ - We value pairing as a skill which we encourage people to grow, working together to find the styles which are most effective.
  - We make time for individual-learning & career development with personal development being our priority.
  - We write code for the most junior, not the most senior.
  - We actively share at all levels of users and stakeholders, whether it's our knowledge, work, planning or approach.
