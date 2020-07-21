@@ -33,7 +33,7 @@ _Behaviours_:
 
 **We are data informed** 
 
-We believe that to be responsible in our impact we must be led by data.
+We believe that to be responsible in our impact we must be informed by data.
 
 _Behaviours_: 
  - We base our decisions on analytics and experiments to reach consensus having heard everyone’s voice. 
