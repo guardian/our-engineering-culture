@@ -6,7 +6,7 @@ _Behaviours_:
 - We simplify our work, focusing on getting it to the user as early as possible.
 - We practice [continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery)
 - We are trying to [make the change easy, before the easy change](https://twitter.com/KentBeck/status/250733358307500032).   
-- We aim to solve issues rapidly prioritising them based on impact they may have.
+- We aim to solve problems rapidly, prioritising them based on their impact.
 
 **Inclusiveness & Respect** 
 
