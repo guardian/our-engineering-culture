@@ -59,7 +59,7 @@ _Behaviours_:
     - We were one of the [first legacy companies to move entirely to the cloud (AWS)](http://perspectives.mvdirona.com/2016/03/a-decade-of-innovation/)
     - We were a pioneer of the [concept of microservices](https://martinfowler.com/articles/microservices.html#footnote-etymology)
  - We maintain our technical advantage through continuous innovation
- - We aim to be at the forefront of tech, staying curious, looking to innovate and continuously improve.
+ - We will be at the forefront of tech, always being curious, innovating and continuously improving.
 
 **Knowledge sharing**
 
