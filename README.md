@@ -77,6 +77,6 @@ _Behaviours_:
 We believe in [our values](https://workforus.theguardian.com/our-values) and what the Guardian stands for. We are not driven to simply deliver the implementation of a specification, but delight in working collaboratively to achieve an objective. We are enthused to do whatever we can to deliver value to the Guardian.
 
 _Behaviours_: 
- - We seek to be a pioneer in the way things are done in the business and and aim to be seen as a model by other teams and departments.
+ - We seek to be a pioneer in the way things are done in the business and aim to be seen as a model by other teams and departments.
      
  
