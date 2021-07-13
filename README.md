@@ -1,4 +1,4 @@
-**Delivery mindset**
+#### Delivery mindset
 
 We believe in being pragmatic and moving fast, spending our energy on the right things, shipping code and then rapidly iterating on it. 
 
@@ -8,7 +8,7 @@ _Behaviours_:
 - We are trying to [make the change easy, before the easy change](https://twitter.com/KentBeck/status/250733358307500032).   
 - We aim to solve problems rapidly, prioritising them based on their impact.
 
-**Inclusiveness & Respect** 
+#### Inclusiveness & Respect 
 
 We believe that our culture is important, and we all contribute to it regardless of our role or level.
 
@@ -20,7 +20,7 @@ _Behaviours_:
  - We value and respect all differences in all people (seen and unseen). We aspire to inclusive working experiences and an environment that reflects the audience we serve, where our people take up career development opportunities equally, their voices are heard and contribute to our future. We aim to hire, retain and advance people from underrepresented groups.
 
 
-**Working as a team**
+#### Working as a team
 
 We believe that the team is everything and our lowest common unit, set up with the necessary skills to succeed.
 
@@ -31,7 +31,7 @@ _Behaviours_:
  - We value the experience of people in the team and the different constraints within their lives. 
  - We celebrate success and positive behaviour, recognizing everyone’s contribution while treating every moment including tasks and failures as a learning opportunity.
 
-**We are data informed** 
+#### We are data informed 
 
 We believe that to be responsible in our impact we must be informed by data.
 
@@ -39,7 +39,7 @@ _Behaviours_:
  - We base our decisions on analytics and experiments to reach consensus having heard everyone’s voice. 
  - We measure our success through data analysis and not through the highest paid person's opinion or the loudest voice.
 
-**Empowerment**
+#### Empowerment
 
 We believe that all of us want to - and can - make a difference to the Guardian.
 
@@ -48,7 +48,7 @@ _Behaviours_:
   - We trust engineers to build the right things, collaborating closely and transparently with other teams.
   - We own the problem, not the spec. We don’t wait for decisions to be made for us, we are an empowered engineering function and you are an empowered engineer. We use that power responsibly as we are conscious some decisions may need to be signed off and work collaboratively with our stakeholders.
 
-**Technical Excellence** 
+#### Technical Excellence 
 
 We believe that embracing technical innovation and excellence can help us make a difference.
 
@@ -61,7 +61,7 @@ _Behaviours_:
  - We maintain our technical advantage through continuous innovation
  - We will be at the forefront of tech, always being curious, innovating and continuously improving.
 
-**Knowledge sharing**
+#### Knowledge sharing
 
 We believe that it’s our responsibility to upskill one another, sharing our knowledge, learnings and mistakes. 
 
@@ -72,7 +72,7 @@ _Behaviours_:
  - We write code for the most junior, not the most senior.
  - We actively share at all levels of users and stakeholders, whether it's our knowledge, work, planning or approach.
 
-**We care**
+#### We care
  
 We believe in [our values](https://workforus.theguardian.com/our-values) and what the Guardian stands for. We are not driven to simply deliver the implementation of a specification, but delight in working collaboratively to achieve an objective. We are enthused to do whatever we can to deliver value to the Guardian.
 
