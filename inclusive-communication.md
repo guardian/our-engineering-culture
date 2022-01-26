@@ -15,7 +15,17 @@ Please do submit any edits you feel necessary, and these will be reviewed and me
 
 #### From [Twitter Engineering on 2 July](https://twitter.com/TwitterEng/status/1278733305190342656)
 
-<img src="Eb74mBPU0AAct0s.jpeg" alt="https://twitter.com/TwitterEng/status/1278733305190342656"/>
+| **Non-inclusive** | **Alternatives** |
+|---|---|
+| Whitelist | Allowlist |
+| Blacklist | Denylist |
+| Master/slave | Leader/follower, primary/replica, primary/standby |
+| Grandfathered | Legacy status |
+| Gendered pronouns (e.g. guys) | Folks, people, you all, y'all |
+| Gendered pronouns (e.g. he/him/his) | They, them, their |
+| Man hours | Person hours, engineering hours |
+| Sanity check | Quick check, confidence check, coherence check |
+| Dummy value | Placeholder value, sample value |
 
 #### From P&E - Engineering
 
