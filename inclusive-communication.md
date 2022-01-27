@@ -33,7 +33,6 @@ Please do submit any edits you feel necessary, and these will be reviewed and me
 | -------------------- | ---------------- |
 | Blackbox             | Closed / Opaque box |
 | Whitebox             | Open / Clear box |
-| Legal name           | Preferred name and pronouns (put yours on your email signature) |
 | God mode             | Staff mode / CSR mode / Admin mode |
 | Back of a fag packet | Back of an envelope/napkin |
 | Straw man            | Straw person/head |
