@@ -37,6 +37,9 @@ Please do submit any edits you feel necessary, and these will be reviewed and me
 | Back of a fag packet | Back of an envelope/napkin |
 | Straw man            | Straw person/head |
 | mental               | unbelievable/horrible |
+
+#### comprehensive DialPad list
+https://github.com/dialpad/inclusive-language
   
 
 ## Accountability
