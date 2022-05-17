@@ -38,7 +38,7 @@ Please do submit any edits you feel necessary, and these will be reviewed and me
 | Straw man            | Straw person/head |
 | mental               | unbelievable/horrible |
 
-#### comprehensive DialPad list
+#### Longer list from DialPad
 https://github.com/dialpad/inclusive-language
   
 
